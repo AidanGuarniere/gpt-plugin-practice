@@ -7,9 +7,7 @@
   "auth": {
     "type": "service_http",
     "authorization_type": "bearer",
-    "verification_tokens": {
-      "openai": "Replace_this_string_with_the_verification_token_generated_in_the_ChatGPT_UI"
-    }
+    "verification_tokens": { "openai": "fb5d77e6ddc549f6b2bf115db8be2bff" }
   },
   "api": {
     "type": "openapi",
